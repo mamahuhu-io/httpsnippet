@@ -1,0 +1,5 @@
+src/targets/http/http1.1/fixtures/** text eol=crlf
+src/targets/php/http1/fixtures/multipart-*.php -text
+src/targets/php/http2/fixtures/multipart-*.php -text
+src/targets/powershell/*/fixtures/multipart-*.ps1 -text
+src/targets/shell/httpie/fixtures/multipart-*.sh -text
